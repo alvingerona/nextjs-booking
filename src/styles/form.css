@@ -1,0 +1,10 @@
+input.select__input {
+  --tw-ring-shadow: none !important;
+}
+.react-select-control {
+  @apply block w-full appearance-none rounded-md border border-gray-300 px-1 py-1 placeholder-gray-400 shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm;
+}
+
+.form-label {
+  @apply text-sm font-medium text-gray-700;
+}
