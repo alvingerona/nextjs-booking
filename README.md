@@ -1,3 +1,7 @@
+# Prototype Booking Website
+
+This is a robust and responsive booking application website built using NextJS. The website likely offers a user-friendly interface for charter service booking. Utilizes NextJS's features such as automatic code splitting, pre-rendering, and optimized caching to enhance its performance and speed. With its modern design and efficient functionality, the website is sure to provide a seamless user experience for those looking to booking charter service.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
