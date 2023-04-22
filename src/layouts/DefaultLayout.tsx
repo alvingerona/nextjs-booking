@@ -14,7 +14,7 @@ const DefaultLayout = ({
   return (
     <>
       <Head>
-        <title>{title} | Driver Philippines</title>
+        <title>{title} | Charter Booking</title>
         <meta name="description" content={metadescription} />
       </Head>
       <Header />
